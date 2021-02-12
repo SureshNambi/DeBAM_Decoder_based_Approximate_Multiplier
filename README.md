@@ -5,7 +5,7 @@ This repository presents the source code for the novel decoder logic-based multi
 Our proposed design in an 8-bit format achieves 40.96% and 22.30% power reduction compared to the accurate and approximate unsigned multipliers. Our design is parameterized providing users the flexibility to deploy multipliers of desired bit-width (N) along with the choice of the number of approximate decoder logic blocks implemented ( (N - M)/2 ) to suit application specifications.  
 
 More details about the hardware architecture of DeBAM is available here :
-https://ieeexplore.ieee.org/abstract/document/9296261/keywords#keywords
+https://ieeexplore.ieee.org/document/9296261
 
 ## Contents
 ### Verilog Design source
@@ -20,6 +20,6 @@ Our verilog code has two key parameters N (Multiplier bit-width) and M (Number o
 
 This work is based on following article. Please refer them for more detailed description of DeBAM.
 1. S. Nambi, U. A. Kumar, K. Radhakrishnan, M. Venkatesan and S. E. Ahmed, "DeBAM: Decoder Based Approximate Multiplier for Low Power Applications," in IEEE Embedded Systems Letters, doi: 10.1109/LES.2020.3045165.
-https://ieeexplore.ieee.org/abstract/document/9296261/keywords#keywords
+https://ieeexplore.ieee.org/document/9296261
 
 Please refer/cite this papers if you find this work useful for or in your research.
