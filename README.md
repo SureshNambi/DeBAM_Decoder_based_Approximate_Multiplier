@@ -22,4 +22,4 @@ This work is based on following article. Please refer them for more detailed des
 1. S. Nambi, U. A. Kumar, K. Radhakrishnan, M. Venkatesan and S. E. Ahmed, "DeBAM: Decoder Based Approximate Multiplier for Low Power Applications," in IEEE Embedded Systems Letters, doi: 10.1109/LES.2020.3045165.
 https://ieeexplore.ieee.org/document/9296261
 
-Please refer/cite this papers if you find this work useful for or in your research.
+Please refer/cite this paper if you find this work useful for or in your research.

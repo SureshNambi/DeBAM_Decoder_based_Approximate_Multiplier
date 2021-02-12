@@ -1,6 +1,7 @@
 % Authors : Suresh Nambi, Kavya Radhakrishnan, Mythreye Venkatesan
+% Collaborators : Anil Kumar Uppugunduru, Dr. Syed Ershad Ahmed
 % Dependencies : May require additional MATLAB Toolboxes
-% Functionality : DeBAM MATLAB function to ascertain error metrics 
+% Functionality : DeBAM MATLAB function to ascertain error metrics
 
 % ########################################################################
 %           DeBAM Parameterized (N,M) Matlab Function Defintion

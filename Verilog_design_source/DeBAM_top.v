@@ -1,6 +1,7 @@
 `timescale 1ns / 1ps
 
 // Author : Suresh Nambi
+// Collaborators : Anil Kumar Uppugunduru, Kavya Radhakrishnan, Mythreye Venkatesan
 // Dependencies : Simple Testbench to generate simulation results if required
 // Functionality : DeBAM verilog design sources to ascertain h/w utilization metrics
 // TODO : Clean up code
